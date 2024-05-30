@@ -22,3 +22,7 @@ ATS Resume Expert is a Streamlit web application designed to help job seekers ta
 ├── requirements.txt     # Python dependencies
 
 └── README.md            # This README file
+
+
+### This is the sample interface of the application.
+![image](https://github.com/RamuRamu-12/ATS-Tracker-using-Gemini-pro-vision/assets/96642590/3f60971d-db7c-4919-85ab-fbd64283fa49)
