@@ -1,0 +1,7 @@
+functionalities in ats project:
+
+1.Field for presenting the job description of the project
+2.we can upload the pdf
+3.pdf to image conversion--> preprocessing --> Google Gemini Pro
+4.prompts Template
+.
