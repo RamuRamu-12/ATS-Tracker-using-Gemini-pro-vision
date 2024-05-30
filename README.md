@@ -16,6 +16,9 @@ ATS Resume Expert is a Streamlit web application designed to help job seekers ta
 
 ## Project Structure
 ├── .env.example         # Example environment file
+
 ├── app.py               # Main Streamlit app script
+
 ├── requirements.txt     # Python dependencies
+
 └── README.md            # This README file
