@@ -14,3 +14,8 @@ ATS Resume Expert is a Streamlit web application designed to help job seekers ta
 - **Cover Letter Generation**: Generate a tailored cover letter based on the job description and your resume.
 
 
+## Project Structure
+├── .env.example         # Example environment file
+├── app.py               # Main Streamlit app script
+├── requirements.txt     # Python dependencies
+└── README.md            # This README file
